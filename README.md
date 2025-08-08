@@ -1,14 +1,14 @@
 # Metadata-Conversion
-天马G（Pegasus）元数据转换为 EmulationStation 格式，适用于Batocera/RetroBat/EmuELEC 等复古游戏系统
 
-Python 脚本使用AI编写，简单测试过可行。后续有发现问题再修改，使用时请注意备份数据。
-
-用于将国内 跳坑者联盟 制作的 天马G metadata数据列表 `metadata.pegasus.txt`
+用于将国内 跳坑者联盟 制作的 天马G(Pegasus) metadata数据列表 `metadata.pegasus.txt`
 
 转换为 Batocera 、RetroBat 、EmuELEC 等系统可识别的 EmulationStation 数据列表 `gamelist.xml`
+
 > 包含游戏简介、封面图片与视频
 
 ### 运行环境与用法
+
+Python 脚本使用AI编写，简单测试过可行。后续有发现问题再修改，使用时请注意备份数据。
 
 + Python 3
   
